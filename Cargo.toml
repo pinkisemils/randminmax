@@ -4,3 +4,9 @@ version = "0.1.0"
 authors = ["Emīls Piņķis <pinkisemils@gmail.com>"]
 
 [dependencies]
+rand = "0.3"
+time = "0.1"
+num_cpus = "0.2"
+
+[profile.release]
+debug = true
