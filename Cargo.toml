@@ -1,0 +1,6 @@
+[package]
+name = "randmaxmin"
+version = "0.1.0"
+authors = ["Emīls Piņķis <pinkisemils@gmail.com>"]
+
+[dependencies]
